@@ -2,6 +2,9 @@
 """Angry Judge: The Short Rant Contest — make.fun bounty entry.
 
 Writes one short, funny rant about an everyday annoyance to /output/entry.txt.
+
+Bounty: u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046 — the rant's
+angle is a nagging microwave that beeps like the cook is the unreliable one.
 """
 
 import os
